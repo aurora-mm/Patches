@@ -10,4 +10,4 @@ All the patches were created with VCV Rack 1.0 and are licensed under [Creative 
 
 # Author
 
-Linn R. Friberg (the artist name LR Friberg)
+Linn R. Friberg (artist name LR Friberg)
