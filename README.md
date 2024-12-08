@@ -1,6 +1,6 @@
 # Overview
 
-This repository includes modular patches for [VCV Rack](https://vcvrack.com), initially created as part of the coursework for the Sound Synthesis course (ME1614) at the Blekinge Institute of Technology (BTH). Beyond that, it also features recreations of sounds from films, commercials, and  video games. By making music and sound design open source, it becomes easier to explain fundamental concepts of sound synthesis and demonstrate how specific sounds are created.
+This repository includes modular patches for [VCV Rack](https://vcvrack.com), initially created as part of the coursework for the Sound Synthesis course (ME1614) at the Blekinge Institute of Technology (BTH). By making music and sound design open source, it becomes easier to explain fundamental concepts of sound synthesis and demonstrate how specific sounds are created.
 
 # Usage
 
@@ -10,4 +10,4 @@ All the patches were created with VCV Rack 1.0 and are licensed under [Creative 
 
 # Author
 
-Linn R. Friberg (artist name LR Friberg)
+Linn Friberg (artist name LR Friberg)
